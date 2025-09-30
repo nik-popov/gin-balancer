@@ -1,0 +1,18 @@
+# VCS
+.git
+
+# Go build cache and binaries
+bin/
+build/
+dist/
+*.out
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Local artifacts
+*.tar.gz
+*.zip
+coverage/
